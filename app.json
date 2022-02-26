@@ -1,20 +1,21 @@
 {
-    "name": "Queen Amdi 3.6.2v",
+    "name": "QUEEN HIMA BOT",
     "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
     "keywords": [
-        "Queen Amdi",
+        "QUEEN HIMA",
         "WhatsApp",
         "User Bot",
         "Chat bot",
         "Button bot",
-        "Black Amda"
+        "Black Amda",
+        "DNGMODS"
     ],
     "website": "https://amdaniwasa.com",
     "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
-        "AMDI_SESSION": {
+        "HIMA_SESSION": {
             "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
             "required": true
         },
@@ -38,7 +39,7 @@
             "required": true,
             "value": "default"
         },
-        "AMDI_CHAT": {
+        "HIMA_CHAT": {
             "description": "Full Artificial intelligence(AI) based chat bot feature. Type 'true' to enable and type 'false' to disable.",
             "required": true,
             "value": "false"
